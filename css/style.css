@@ -1,1 +1,25 @@
 /* Site Styles Go Here */
+
+.card {
+    transition-duration: .5s;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.navbar-brand:hover {
+    font-size: 1.75rem;
+    
+}
+
+.navbar-brand {
+    transition-duration: .5s;
+}
+
+
+a:active {
+    color: #79F2FC;
+}
+
+
